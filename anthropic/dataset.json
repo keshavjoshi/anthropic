@@ -1,0 +1,24 @@
+[
+  {
+    "prompt_inputs": {},
+    "solution_criteria": [
+      "Unable to generate test case - no task description provided"
+    ],
+    "task_description": "",
+    "scenario": "Placeholder - No task description provided"
+  },
+  {
+    "prompt_inputs": {},
+    "solution_criteria": [
+      "Unable to generate test case - no task description, specific idea, or allowed input keys provided"
+    ],
+    "task_description": "",
+    "scenario": "Placeholder - No prompt inputs specification provided"
+  },
+  {
+    "prompt_inputs": {},
+    "solution_criteria": [],
+    "task_description": "",
+    "scenario": "Placeholder - Unable to generate meaningful test scenarios"
+  }
+]
